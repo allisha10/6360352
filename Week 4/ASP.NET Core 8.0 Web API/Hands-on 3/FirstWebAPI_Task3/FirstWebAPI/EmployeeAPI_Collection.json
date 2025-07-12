@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "826071f6-610e-4927-b03f-2a6594a1b5ef",
+		"name": "EmployeeAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46665694",
+		"_collection_link": "https://allishadash.postman.co/workspace/Allisha-Dash's-Workspace~3fda4a60-4e06-4e09-86ba-c850fc3f5c73/collection/46665694-826071f6-610e-4927-b03f-2a6594a1b5ef?action=share&source=collection_link&creator=46665694"
+	},
+	"item": [
+		{
+			"name": "https://localhost:7183/api/emp",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7183/api/emp",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7183",
+					"path": [
+						"api",
+						"emp"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
